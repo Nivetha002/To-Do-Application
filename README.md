@@ -18,14 +18,11 @@ Welcome to the To-Do List project! This project is focusing on building a functi
 
 # Built with
 
-1. Html   
-       index.html: This file represents the user interface of the Todo app. It defines the structure of the webpage, including the task input form, task list, and buttons for various actions.
+1. Html - index.html: This file represents the user interface of the Todo app. It defines the structure of the webpage, including the task input form, task list, and buttons for various actions.
 
-2. Css 
-     style.css: This file contains the CSS styles that define the appearance and layout of the app. It provides a visually appealing and user-friendly interface.
+2. Css - style.css: This file contains the CSS styles that define the appearance and layout of the app. It provides a visually appealing and user-friendly interface.
 
-3. Javascript :
-     script.js: This is the JavaScript file that handles the logic and functionality of the Todo app. It includes event listeners, functions for creating, updating, and deleting tasks, as well as handling local storage operations.
+3. Javascript - script.js: This is the JavaScript file that handles the logic and functionality of the Todo app. It includes event listeners, functions for creating, updating, and deleting tasks, as well as handling local storage operations.
 
 
 
