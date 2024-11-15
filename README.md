@@ -16,7 +16,7 @@ Welcome to the To-Do List project! This project is focusing on building a functi
 
 
 
-# Technology
+# Technologies Used
 
 Html
 
