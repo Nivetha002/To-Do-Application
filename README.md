@@ -27,8 +27,9 @@ Welcome to the To-Do List project! This project is focusing on building a functi
 
 
 # Screenshot
+![To_Do App](https://github.com/user-attachments/assets/7707faf3-66e0-469b-b630-ba8526cb68d8)
 
-<img width="1440" alt="Screenshot 2024-11-15 at 11 41 28 PM" src="https://github.com/user-attachments/assets/c8f0ee6e-da6f-4768-8316-5723abab33e9">
+
 
 
 # Conclusion
